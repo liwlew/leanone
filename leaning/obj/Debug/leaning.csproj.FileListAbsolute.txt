@@ -1,0 +1,10 @@
+C:\Users\uchih\source\repos\leaning\leaning\bin\Debug\leaning.exe.config
+C:\Users\uchih\source\repos\leaning\leaning\bin\Debug\leaning.exe
+C:\Users\uchih\source\repos\leaning\leaning\bin\Debug\leaning.pdb
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.csprojResolveAssemblyReference.cache
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.Form1.resources
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.Properties.Resources.resources
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.csproj.GenerateResource.Cache
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.csproj.CoreCompileInputs.cache
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.exe
+C:\Users\uchih\source\repos\leaning\leaning\obj\Debug\leaning.pdb
